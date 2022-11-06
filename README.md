@@ -34,7 +34,7 @@
 ![Вход](/images/screenshot2.png)
 ### Главная страница
 ![Главная](/images/screenshot3.png)
-### Cоздание нвой статьи
+### Cоздание новой статьи
 ![Создание новой статьи](/images/screenshot4.png)
 ### Просмотр статьи
 ![Статья](/images/screenshot5.png)
